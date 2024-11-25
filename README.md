@@ -59,7 +59,7 @@ This project involved me training a custom model using YOLOv5 to create an exter
 
 1. Clone the repository:
     ```bash
-    git clone <url>
+    git clone https://github.com/JeffVu-1/Valorant-A.I-Aimbot.git
     ```
 
 2. Install Python version 3.10.0 and during installation make sure you select `Add Python 3.10.0 to PATH`
