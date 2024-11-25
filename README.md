@@ -24,7 +24,7 @@ This project involved me training a custom model using YOLOv5 to create an exter
 
 ### Aimbot/FlickBot/SilentAim Showcase
 
-<iframe width="800px" src="https://www.youtube.com/watch?v=P-6v8fIq39A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video ShowCase](ImageAndVideo/VideoThumbnail.png)](https://www.youtube.com/watch?v=P-6v8fIq39A)
 
 ### Graphical User Interface
 <div>
