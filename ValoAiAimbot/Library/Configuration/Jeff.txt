@@ -1,0 +1,16 @@
+Valorant_Sensitivity=0.4
+AimbotFovRange=113
+AimbotSmoothing=30
+AntiRecoilMultiplier=15.0
+FlickBotSteps=50
+Aimbot_KeyOne=6
+FlickBot_KeyOne=5
+SilentAimToggle=False
+EnemyColor=True
+Lower_Color=[160, 80, 179]
+Upper_Color=[255, 128, 255]
+FovColor=(0, 219, 255)
+FlickBotRageToggle=True
+AimbotRageToggle=False
+CircleToggle=True
+DotToggle=True

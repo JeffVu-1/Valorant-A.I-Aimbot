@@ -1,0 +1,18 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+numpy==1.26.4
+torch==1.12.1+cu116
+torchvision==0.13.1+cu116
+opencv-python
+bettercam
+pyserial
+psutil
+pywin32
+pandas
+pyyaml
+tqdm
+seaborn
+dearpygui
+hidapi
+pyautogui
+pyqt5
